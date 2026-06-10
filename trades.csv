@@ -1,0 +1,14 @@
+trade_id,date_opened,date_closed,ticker,strategy,contract_type,strike,expiration,contracts,premium_collected,commission,status,assigned,notes
+1,2024-01-05,2024-01-19,SOFI,Wheel,CSP,8.00,2024-01-19,2,142.00,2.60,closed,No,Expired worthless
+2,2024-01-22,2024-02-02,SOFI,Wheel,CSP,7.50,2024-02-02,2,98.00,2.60,closed,No,Expired worthless
+3,2024-02-05,2024-02-16,SOFI,Wheel,CSP,7.50,2024-02-16,2,110.00,2.60,closed,Yes,Assigned at 7.50
+4,2024-02-20,2024-03-01,SOFI,Wheel,CC,8.00,2024-03-01,2,134.00,2.60,closed,No,Expired worthless
+5,2024-01-08,2024-01-26,HOOD,Wheel,CSP,14.00,2024-01-26,1,87.00,1.30,closed,No,Expired worthless
+6,2024-01-29,2024-02-09,HOOD,Wheel,CSP,13.50,2024-02-09,1,74.00,1.30,closed,No,Expired worthless
+7,2024-02-12,2024-02-23,HOOD,Wheel,CSP,13.00,2024-02-23,1,91.00,1.30,closed,Yes,Assigned at 13.00
+8,2024-02-26,2024-03-08,HOOD,Wheel,CC,13.50,2024-03-08,1,68.00,1.30,closed,No,Expired worthless
+9,2024-01-10,2024-01-31,ORCL,Wheel,CSP,105.00,2024-01-31,1,145.00,1.30,closed,No,Expired worthless
+10,2024-02-02,2024-02-16,ORCL,Wheel,CSP,107.00,2024-02-16,1,162.00,1.30,closed,No,Expired worthless
+11,2024-03-01,,CCJ,Wheel,CSP,48.00,2024-04-19,2,178.00,2.60,open,No,Ongoing
+12,2024-03-05,,KTOS,Wheel,CSP,22.00,2024-04-19,3,231.00,3.90,open,No,Ongoing
+13,2024-03-10,,SHOP,Wheel,CC,82.00,2024-04-19,1,198.00,1.30,open,No,Covered call on existing shares
