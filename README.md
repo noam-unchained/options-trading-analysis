@@ -2,8 +2,6 @@
 
 A clean, terminal-based Python tool to track your Cash-Secured Puts (CSP) and Covered Calls (CC) when running the Wheel Strategy.
 
-No subscriptions. No bloated apps. Just your trades, your data, your terminal.
-
 ---
 
 ## Preview
